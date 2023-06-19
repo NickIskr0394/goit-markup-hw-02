@@ -29,9 +29,8 @@ body {
         text-transform: uppercase;
         color: #4D5AE5;
     
-        .link {
-            text-decoration: none;
-        }
+        
+           
 }
 .header-list {
         font-style: normal;
@@ -40,6 +39,9 @@ body {
         line-height: 24px;
         letter-spacing: 0.02em;
         color: #2E2F42;
+}
+.list {
+    list-style: none;
 }
 .header-mail-link {
             font-style: normal;
@@ -56,6 +58,10 @@ body {
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.link {
+    text-decoration: none;
 }
 
 .section-one-title {
