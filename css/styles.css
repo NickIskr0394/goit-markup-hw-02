@@ -19,7 +19,7 @@ body {
         text-transform: uppercase;
         color: #2E2F42;
 }
-.header-logo-link {
+.header-logo {
         font-family: "Raleway", sans-serif;
         font-style: normal;
         font-weight: 800;
@@ -28,6 +28,10 @@ body {
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4D5AE5;
+    
+        .link {
+            text-decoration: none;
+        }
 }
 .header-list {
         font-style: normal;
