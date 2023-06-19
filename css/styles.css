@@ -32,12 +32,10 @@ body {
         line-height: 21px;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #2E2F42;
+        color: #2e2f42;
 }
 
-.span {
-    color: #2e2f42;
-}
+
            
 }
 .header-list {
