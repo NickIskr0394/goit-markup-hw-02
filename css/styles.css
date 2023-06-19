@@ -1,12 +1,9 @@
-:root {
-    --primary-font: "Poppins", sans-serif;
-    --title-font: "Oswald", sans-serif;
-    --primary-black-color: #212121;
-    --primary-white-color: #ffffff;
-    --primary-accent-color: #03a9f4;
-    --secondary-accent-color: #0288d1;
-    --active-link-color: #f44336;
-}
+ :root {
+            --primary-font: "Roboto", sans-serif;
+            --title-font: "Raleway", sans-serif;
+           
+        }
+
 
 body {
     font-family: "Roboto", sans-serif;
@@ -14,6 +11,7 @@ body {
     color: #434455;
 }
 .logo {
+        font-family: "Raleway", sans-serif;
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
@@ -23,6 +21,7 @@ body {
         color: #2E2F42;
 }
 .header-logo-link {
+        font-family: "Raleway", sans-serif;
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
