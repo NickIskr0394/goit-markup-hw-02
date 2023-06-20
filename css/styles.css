@@ -51,9 +51,7 @@ body {
         text-transform: uppercase;
         color: #2e2f42;
 }
-
-
-           
+  
 
 .header-list {
         font-style: normal;
@@ -71,8 +69,8 @@ body {
 .header-link {
     color: var(--navy-blue-modal-color);
 }
-.link {
-    color: var(--navy-blue-modal-color);
+.link:hover {
+    color: #404bbf;
 }
 
 
