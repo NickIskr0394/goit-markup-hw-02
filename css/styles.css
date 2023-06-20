@@ -74,6 +74,11 @@ body {
     color: var(--grey-color);
 }
 
+.header-link:hover
+.header-link:focus{
+
+}
+
 
 .header-mail-link {
             font-style: normal;
