@@ -65,6 +65,14 @@ body {
     list-style: none;
 }
 
+.header-link {
+    color: var(--navy-blue-modal-color);
+}
+
+.link {
+    color: var(--navy-blue-modal-color);
+}
+
 .header-mail-link {
             font-style: normal;
             font-weight: 400;
@@ -73,6 +81,7 @@ body {
             letter-spacing: 0.02em;
             color: #434455;   
 }
+
 .header-tel-link {
     font-style: normal;
     font-weight: 400;
