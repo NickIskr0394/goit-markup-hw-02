@@ -89,14 +89,16 @@ body {
 }
 
 .section-one-btn {
-    font-style: normal;
+        font-family: "Roboto", sans-serif;
+        font-style: normal;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         display: flex;
         align-items: center;
         letter-spacing: 0.04em;
-        color: var(--white-color)
+        color: var(--white-color);
+        background-color: var(--iris-color);
 }
 .section-one-btn:hover,
 .section-one-btn:focus {
