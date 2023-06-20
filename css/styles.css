@@ -1,14 +1,38 @@
+ /*css custom properties*/
+
  :root {
-            --primary-font: "Roboto", sans-serif;
-            --title-font: "Raleway", sans-serif;
-           
+            --ocean-color: #404BBF;
+            --iris-color: #4D5AE5;
+            --navy-blue-color: #2E2F42;
+            --green-color: #31D0AA;
+            --slate-color: #434455;
+            --light-slate-color: #8E8F99;
+            --cornflower-color: #E7E9FC;
+            --cloud-color: #F4F4FD;
+            --navy-blue-modal-color: #2E2F42;
+            --grey-color: #2e2f42;
+            --white-color: #FFFFFF;
+            --dairy-color: #FCFCFC;
         }
 
 
 body {
     font-family: "Roboto", sans-serif;
-    background-color: white;
-    color: #434455;
+    color: var(--slate-color);
+    background: var(--white-color);
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+    font-size: 16px;
+    font-weight: 400;
+    width: 1440px;
+    margin: 0 auto;
+    border: 1px solid var(--cornflower-color);    
+}
+main {
+    flex-grow: 1;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
 }
 
 .header-logo {
