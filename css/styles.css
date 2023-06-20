@@ -67,12 +67,9 @@ body {
     list-style: none;
 }
 
-.header-link:hover
-.header-link:focus{
 
-}
-
-.link {
+.link:hover
+.link:focus {
     color: var(--grey-color);
 }
 
