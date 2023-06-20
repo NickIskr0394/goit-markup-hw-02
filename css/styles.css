@@ -82,10 +82,23 @@ body {
         font-style: normal;
         font-weight: 700;
         font-size: 56px;
-        line-height: 60px;
+        line-height: 1.07;
         text-align: center;
         letter-spacing: 0.02em;
         color: var(--white-color);
 }
 
-.section-one-btn {}
+.section-one-btn {
+    font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.04em;
+        color: var(--white-color)
+}
+.section-one-btn:hover,
+.section-one-btn:focus {
+    background-color: var(--ocean-color);
+}
