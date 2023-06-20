@@ -67,17 +67,16 @@ body {
     list-style: none;
 }
 
-.header-link {
-    color: var(--grey-color);
-}
-.link {
-    color: var(--grey-color);
-}
-
 .header-link:hover
 .header-link:focus{
 
 }
+
+.link {
+    color: var(--grey-color);
+}
+
+
 
 
 .header-mail-link {
