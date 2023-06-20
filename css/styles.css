@@ -135,7 +135,12 @@ body {
         color: var(--navy-blue-color);
 }
 
-
+.section-four {
+    background-color: var(--cloud-color);
+}
+.section-four-item {
+    background-color: var(--white-color);
+}
 
 .section-four-title {
     font-style: normal;
