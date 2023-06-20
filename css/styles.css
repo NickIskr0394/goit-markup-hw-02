@@ -74,3 +74,18 @@ body {
 .header-address-item .link:focus {
     color: #404bbf;
 }
+.section-one {
+    background-color: var(--navy-blue-color);
+}
+
+.section-one-title {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 60px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: var(--white-color);
+}
+
+.section-one-btn {}
