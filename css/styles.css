@@ -51,6 +51,9 @@ body {
         text-transform: uppercase;
         color: #2e2f42;
 }
+.link {
+    color: var(--grey-color)
+}
 
 
            
