@@ -57,6 +57,10 @@ body {
  .header-item .link:active {
      color: var(--ocean-color);
  }
+ 
+ .header-address {
+        font-style: normal;
+ }
 
  .header-address-item .link {
         font-style: normal;
@@ -66,3 +70,7 @@ body {
         letter-spacing: 0.02em;
         color: var(--slate-color);
  }
+.header-address-item .link:hover,
+.header-address-item .link:focus {
+    color: #404bbf;
+}
