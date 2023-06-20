@@ -51,7 +51,7 @@ body {
  }
  .header-item .link:hover,
  .header-item .link:focus {
-    color: var(--ocean-color);
+    color: #404BBF;
  }
 
  .header-item .link:active {
