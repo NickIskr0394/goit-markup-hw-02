@@ -13,14 +13,19 @@
      --dairy-color: #FCFCFC;
  }
  
- body {
-    font-family: "Roboto", sans-serif;
-    background-color: #FFFFFF;
-    color: #2E2F42;
- }
-
+body {
+    font-family: Roboto, sans-serif;
+    color: var(--slate-color);
+    background: var(--white-color);
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 auto;
+}
 
  .header-logo {
+    font-family: Raleway, sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -48,7 +53,7 @@
  .header-item .link:focus {
     color: var(--iris-color);
  }
- 
+
  .header-item .link:active {
      color: var(--iris-color);
  }
