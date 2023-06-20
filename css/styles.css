@@ -15,7 +15,7 @@
  
 body {
     font-family: Roboto, sans-serif;
-    color: var(--slate-color);
+    color: #434455;
     background: var(--white-color);
     letter-spacing: 0.02em;
     line-height: 1.5;
@@ -30,8 +30,6 @@ body {
     font-weight: 800;
     font-size: 18px;
     line-height: 21px;
-    display: flex;
-    align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
