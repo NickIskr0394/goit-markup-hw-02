@@ -68,12 +68,9 @@ body {
 }
 
 
-.header-link:hover
-.header-link:focus {
-color: var(--ocean-color)
+.header-link {
+    color: var(--navy-blue-modal-color);
 }
-
-
 
 
 
