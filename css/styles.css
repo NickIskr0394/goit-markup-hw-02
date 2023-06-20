@@ -65,12 +65,8 @@ body {
     list-style: none;
 }
 
-.header-link {
-    color: var(--navy-blue-modal-color);
-}
-
-.link {
-    color: var(--navy-blue-modal-color);
+.header-list-item {
+    color: var(--grey-color);
 }
 
 .header-mail-link {
