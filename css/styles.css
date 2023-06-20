@@ -189,8 +189,8 @@ body {
     color: var(--iris-color);
 }
 
-.header-logo .accent {
-    color: var(--navy-blue-color);
+.header-logo .accentt {
+    color: var(--cloud-color);
 }
 
 .section-footer-paragraph {
