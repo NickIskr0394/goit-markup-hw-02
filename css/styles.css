@@ -71,6 +71,9 @@ body {
 .header-link {
     color: var(--navy-blue-modal-color);
 }
+.link {
+    color: var(--navy-blue-modal-color);
+}
 
 
 
