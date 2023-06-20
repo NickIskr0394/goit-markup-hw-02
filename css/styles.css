@@ -68,10 +68,13 @@ body {
 }
 
 
-.link:hover
-.link:focus {
-    color: var(--grey-color);
+.header-link:hover
+.header-link:focus {
+color: var(--ocean-color)
 }
+
+
+
 
 
 
