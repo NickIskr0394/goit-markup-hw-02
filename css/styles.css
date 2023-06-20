@@ -101,4 +101,5 @@ body {
 .section-one-btn:hover,
 .section-one-btn:focus {
     background-color: var(--ocean-color);
+    cursor: pointer;
 }
