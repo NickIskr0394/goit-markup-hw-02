@@ -65,16 +65,6 @@ body {
     list-style: none;
 }
 
-
-.header-link {
-    color: var(--navy-blue-modal-color);
-}
-.link {
-    color: var(--navy-blue-modal-color);
-}
-
-
-
 .header-mail-link {
             font-style: normal;
             font-weight: 400;
