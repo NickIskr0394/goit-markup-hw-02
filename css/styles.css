@@ -173,3 +173,31 @@ body {
         color: var(--slate-color);
 }
 
+.section-footer {
+    background-color: var(--navy-blue-color);
+}
+
+.header-logo {
+    font-family: Raleway, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: var(--iris-color);
+}
+
+.header-logo .accent {
+    color: var(--navy-blue-color);
+}
+
+.section-footer-paragraph {
+    font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: var(--cloud-color);
+}
