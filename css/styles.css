@@ -229,15 +229,28 @@ body {
     cursor: pointer;
 }
 
+.img-list {
+    list-style: none;
+}
 
-.img-list {}
+.img-link {
+    text-decoration: none;
+}
 
-.img-item {}
+.img-title {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: var(--navy-blue-color);
+}
 
-.link {}
-
-.img-link {}
-
-.img-title {}
-
-.img-paragraph {}
+.img-paragraph {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--slate-color);
+}
