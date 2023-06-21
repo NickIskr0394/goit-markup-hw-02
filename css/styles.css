@@ -61,7 +61,7 @@ body {
  .header-address {
         font-style: normal;
  }
-
+ 
  .header-address-item .link {
         font-style: normal;
         font-weight: 400;
@@ -70,6 +70,10 @@ body {
         letter-spacing: 0.02em;
         color: var(--slate-color);
  }
+ .header-address-item .link {
+    text-decoration: none;
+ }
+
 .header-address-item .link:hover,
 .header-address-item .link:focus {
     color: #404bbf;
@@ -201,3 +205,6 @@ body {
         letter-spacing: 0.02em;
         color: var(--cloud-color);
 }
+
+/*Portfolio*/
+
